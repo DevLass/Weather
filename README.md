@@ -1,3 +1,23 @@
+<h1 align="center"> Hey there, i'm Nich, and this is my Calculator with React</h1>
+ 
+<p align="center">
+  <img src="https://github.com/italicnich/Weather/blob/master/readmeimg/img-gif.gif" alt="Page Preview">
+</p>
+
+<h3 align="justify"> <i> Hey there, this is my weather forecaster with react js, bootstrap, and API Rest. Among the technologies mentioned, I made use of the UseState hook, simple bootstrap classes for agile development, and <a href="https://www.weatherapi.com/">Wheater API </a> as a data source. <br><br> If you test the application, you will probably have to renew the API key as it expires over time.</i> </h3>
+
+ 
+<h3 align="justify">
+Thanks for reading, see you soon
+</h3>
+
+> *Never stop the griding.*
+ 
+
+<details>
+  <summary>React Traditional Readme</summary>
+  <section>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +88,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    
+  </section>
+</details>
+
+
